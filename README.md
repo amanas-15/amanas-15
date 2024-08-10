@@ -30,6 +30,8 @@
 - **Impact**: Developing applications that make a difference in people's lives.
 - **Growth**: Continuously improving my skills and contributing to meaningful projects.
 
+## 📫 Connect with Me
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aman-sodagar-0b344723a?trk=people-guest_people_search-card)
 
 
