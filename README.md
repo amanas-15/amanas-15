@@ -12,10 +12,12 @@
 - **Database Management**: SQLite, MySQL
 - **Version Control**: Git & GitHub
 
+
 ### 🚀 **Projects**
 - **Kids Coloring App**: Developing an engaging and educational app for children, blending creativity with technology.
-- **E-commerce Platform**: Designed and implemented a full-stack solution for seamless online shopping experiences.
-- **Weather App**: Created a highly interactive Android app that provides real-time weather updates and forecasts.
+- **Car Sale Management System**: Building a comprehensive system to manage and streamline car sales processes.
+- **Interest-Based Chat App**: Creating a chat application that connects users based on shared interests.
+
 
 ### 🌍 **Community & Collaboration**
 - **Open Source Contributor**: Actively contributing to open-source projects and helping others in the community.
